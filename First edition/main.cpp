@@ -1,5 +1,5 @@
 /**
- * main.cc
+ * main.cpp
  *
  * EAMPLE
  *     ./calc 'rate=1.1934;150/rate;19.75/rate;217/rate'
