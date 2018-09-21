@@ -1,4 +1,4 @@
-// calc.cc
+// calc.cpp
 #include "calc.h"
 
 #include <cctype>
