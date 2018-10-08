@@ -2,10 +2,10 @@
  * calc.h
  *****************
  * program:
- *     END
+ *     END                  //END is end-of-input
  *     expr_list END
  * expr_list:
- *     expression PRINT     // PRINT is ;
+ *     expression PRINT     // PRINT is semicolon
  *     expression PRINT expr_list
  * expression:
  *     expression + term
